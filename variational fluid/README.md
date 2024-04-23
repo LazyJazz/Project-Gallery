@@ -1,3 +1,3 @@
 # Variational Fluid Demo
 
-https://www.youtube.com/watch?v=hYJe_uq-xGI
+[Link to YouTube](https://www.youtube.com/watch?v=hYJe_uq-xGI)
